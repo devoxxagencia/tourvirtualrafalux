@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Virtual 360º - Rafalux Materiais Elétricos 
+
+## Skin
+
+### Button
+Button_25C217AC_37DA_F119_41B6_43D72DD9FDCC.label = LOCALIZAÇÃO
+Button_25C217AC_37DA_F119_41B6_43D72DD9FDCC_mobile.label = LOCALIZAÇÃO
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA.label = WHATSAPP
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA_mobile.label = WHATSAPP
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = INSTAGRAM
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = INSTAGRAM
+Button_E6586701_FB4B_7303_41E2_5D84B36689DF.label = NOSSO SITE
+Button_E6586701_FB4B_7303_41E2_5D84B36689DF_mobile.label = NOSSO SITE
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = IMAGEM AÉREA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = IMAGEM AÉREA
+
+## Media
+
+### Title
+panorama_2557FD29_2EAB_B118_41C5_2A1F6F7EB4B8.label = IMG_20220722_184205_00_merged
+panorama_25A032E8_2EAB_7318_41BB_8CEA2C6F9BA3.label = IMG_20220722_190125_00_merged
+panorama_25A308F2_2EAA_DF08_41BF_54FEE1924DE3.label = IMG_20220722_190943_00_merged
+panorama_25AC9AA9_2EAA_F31B_418B_BAE5F20AB7D6.label = IMG_20220722_191115_00_merged
+panorama_25ACC678_2EAA_B3F9_41C5_8C70BED6ABDB.label = IMG_20220722_190515_00_merged
+panorama_25AD3584_2EAB_5108_41BA_B6FD41A446E9.label = IMG_20220722_190303_00_merged
+panorama_3CC6A177_32FF_B108_41A8_D4C11B31B910.label = Rafa Luz
+
+## Action
+
+### URL
+LinkBehaviour_201AC5E4_375F_B109_417D_43117415D449.source = https://linktr.ee/rafaluxgoiania
+LinkBehaviour_20CD3B12_3759_5108_41C2_5062C287AF0B.source = https://www.instagram.com/rafalux_materiaiseletricos/
+LinkBehaviour_2450E316_37DE_B108_41A8_5A5C9474C911.source = https://rafalux.com.br/
+LinkBehaviour_2469F298_37DE_D338_41C8_30F324F9FEB7.source = https://www.google.com/maps/dir/-16.6631006,-49.2356708/Rafalux/@-16.6709725,-49.3083085,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef5971db8e9d3:0x4114c18c851ed110!2m2!1d-49.3121396!2d-16.6776128
+LinkBehaviour_246E12AC_37DE_D319_41BA_315A4DF3D1F8.source = https://linktr.ee/rafaluxgoiania
+LinkBehaviour_246F628F_37DE_D318_41C8_FB0AF2A2C13B.source = https://rafalux.com.br/
+LinkBehaviour_246FD2AA_37DE_D318_41B2_5A33089D5455.source = https://www.instagram.com/rafalux_materiaiseletricos/
+LinkBehaviour_25C0B7B4_37DA_F109_41C6_462D4FAFE0C2.source = https://www.google.com/maps/dir/-16.6631006,-49.2356708/Rafalux/@-16.6709725,-49.3083085,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef5971db8e9d3:0x4114c18c851ed110!2m2!1d-49.3121396!2d-16.6776128
