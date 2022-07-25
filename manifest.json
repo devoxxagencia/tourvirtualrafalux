@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#3333FF",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "background_color": "#3333FF",
+ "background_color": "#FFFFFF",
  "name": "Tour Virtual 360º - Rafalux Materiais Elétricos ",
  "start_url": "index.htm"
 }
